@@ -1,0 +1,141 @@
+Case study 3: computer games and education
+
+I think that many of the issues connected with the meaning and value
+of education are faced by many families in microcosm.  I feel that
+thinking about my own children and their education can shed light on
+my educational practices at work.
+
+My wife Lesley and I disagree fundamentally about the educational
+merits of computer games.  Her view is that computer games are nothing
+but worthless pleasure-center stimulation, producing addictive
+behaviour with no benefits to the player.  She points to
+sensationalised media stories about teenagers coming to terrible harm
+due, ostensibly, to too much computer gaming.  She worries about
+Zachary's social and physical environment, and observes other boys the
+same age playing football and rugby.  Her view is that the opportunity
+cost of these computer games is enormous, and yet they provide very
+little in the way of educational value.
+
+Zachary's view is that these games are a vital educational component
+of his generation, and compares many of the online competitive games
+he plays with chess or go.  As part of his gaming, he is teaching
+himself new computer languages such as python and ruby and points out
+that his computer classes at school are dumbed-down social nonsense.
+He argues persuasively that many of the games he plays *are* social
+activities, just not face-to-face; many of his games require real-time
+discussion mediated by VOIP.  Many of his games are individual, either
+playing against friends or strangers; but some are team games; his
+team generally comprises school friends who play the same game.  His
+team has met a small amount of success in the various leagues in which
+he plays.  He further observes that he has met a number of boys
+(friends of friends, who attend a different school) through this
+mechanism.
+
+My own view is intermediate between these two extremes, although it is
+closer to Zachary's than Lesley's.
+
+
+Sometimes I sit with him, trying to see the world through his eyes,
+and trying to understand what (if any) educational value these
+activities have.
+
+One game in particular stood out for me: Supreme Commander Forged
+Alliance (SCFA).  This game was an RTS (real time strategy) game,
+between two teams of four.  Zach's three team-mates were boys I knew
+vaguely, and was on nodding terms with their fathers.  The game was
+map-based and involved capturing and defending territory, in real
+time, against an opposing team of broadly similar strength.  The game
+world was represented as a common map, presenting identically to all
+players of both teams.  Team members had to create tactics in real
+time, and to implement these in the face of a determined and skilled
+opposing team.  Zach could talk to his team via a headset, and this
+particular night he switched the sound from headphones to loudspeaker,
+so I could eavesdrop.  His team was Red, the other one Blue.  Here is,
+heavily bowdlerised (the original transcript was rather more
+colourful), a discussion between him and his friends:
+
+Z: "You know, we are suffering badly because we don't have control of
+that island <points to a region on a map>.  I say we abandon [tactical
+objective] and put everything we have into recapturing that island"
+
+S: "I'm with you on that, without that island we ain't got a chance
+here"
+
+T: "Are you nuts?  Blue has been there for ages, they're well dug in.
+No way can we take it.  I say we consolidate to the South and push
+there"
+
+S: "Guys, we're getting hammered on the East, bad.  Zach, look sharp!
+We gotta defend the East, like, now.
+
+Z: "Look, we gotta make a decision before we lose the East.  Who says
+Yes to taking that island?"
+
+... and so on.  The genre is "Real Time Strategy", clearly strategic.
+Note in particular the absence of turn-taking and the panicked
+reactions of the team to ongoing in-game events.  Also note the
+requirement for cohesive team action: Zach needed the cooperation [and
+indeed advice] of the other three players to realise the strategy.  In
+this context, good strategy is worthless without the commitment of the
+other team members.
+
+It is not clear to me that such games are inferior to, say, chess in
+terms of educational value.  Chess is de facto educational; many many
+schools run chess clubs, field chess teams, and pay for chess
+coaching.  Chess is quite literally beyond reproach as an educational
+activity.
+
+For chess to be valuable in this way, two things need to be true: (i),
+playing chess cultivates some sort of generic strategic/tactical
+ability; and (ii), this ability can transfer to other activities.
+There is not the slightest evidence for the truth of either of these
+[I am not disputing the demonstrable fact that playing and studying
+chess enhances the ability to play chess itself.  Also note that
+playing chess demonstrably requires very strong control of
+impulsivity, which is valuable in many ways.  But does impulse control
+*in the context of a chess match* transfer to other activities?  Not
+known].
+
+I could make a case for the educational value of SCFA to be at least
+the equal of chess.  There seem to be three or four features that
+might be worth mentioning: strategy, tactics, decision-making or
+leadership, and cooperation.
+
+Surely the real-time aspect of SCFA should count for something?  Real
+life is seldom turn-based, and it is not clear to me whether prowess
+in a turn-based game such as chess can possibly have any benefit in
+any realistic context.
+
+How about the leadership needed for the game?  I cannot think of any
+other game that requires leadership in such an elemental form as SCFA.
+Note again that "leadership" here requires not only consensus but also
+coordinated action from all the members.  Come to think of it, I
+cannot think of *any* activity, game or otherwise, that has such a
+pure aspect of leadership built into it.
+
+
+==Educational leadership ==
+
+How does such reflection affect educational leadership within AUT?  It
+has made me reflect on the educational value of the learning
+activities that we make our students do, in particular group projects.
+I am involved with a number of assessment items that are group marked,
+and one of the rationales for this is that it mirrors the workplace in
+which teams are part of working life, and we wish to prepare students
+for this.  
+
+However, 
+
+The *universal* complaint is the free-rider problem.  Time after time
+
+and yet we are happy
+
+
+We tend to value essay-writing and standardised tests as traditional
+assessment instruments.  We denigrate
+
+
+
+In summary, my strong feeling is that we as educators should be open
+to non-standard assessment tropes, and there is nothing wrong with
+chess or SCFA.

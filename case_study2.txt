@@ -1,0 +1,67 @@
+
+Understanding
+
+
+The words "understand" and "understanding" appear frequently in course
+descriptors under the learning objectives.  However, I now realise
+that the concept of 'understanding' is considerably more complex than
+might be thought.
+
+To take an example, one typical learning objective might read:
+
+"On completing this course, the student will _understand_ linear
+equations".
+
+What *exactly* does "understand" mean in this context?  One might be
+forgiven for saying, cynically, that it means no more and no less than
+"be able to answer well-rehearsed examination questions isomorphic to
+those in previous assessments".  But such a view is deeply
+unsatisfactory from many many perspectives, although articulating
+precisely what is wrong with it is a difficult matter.  For example,
+one might hold that it is perfectly possible to answer such
+examination questions without a trace of real understanding.  But such
+sentiments beg the question: what does "real understanding" mean?
+
+Bereiter considers this and makes several obervations about
+understanding.  Using NLM as an example, we have:
+
+
+* Understanding is a feature of one's relationship with a concept;
+  understanding is a thus dependent on how one expects to interact
+  with that concept.  Bereiter offers "Newton's Laws of motion" as an
+  example (one that I am able to discuss with some insight: I am
+  originally a physicist---not a statistician---my PhD is fluid
+  dynamics).  "Understanding" NLM will depend on one's relationship
+  with them.  One might expect different *kinds* of understanding
+  appropriate to a secondary science teacher, a science historian, a
+  relativist, and a rocket scientist.  My brother is a professional
+  aerospace engineer and I am a theoretical physicist: when we "talk
+  shop" we spend 99% of our time bridging our language and cultural
+  differences; one would hardly think we are discussing the same
+  underlying concepts.
+
+* One classical definition of understanding is the ability to act
+  intelligently in relation to the theory.  However, from an
+  educational perspective, this is seriously flawed: to achieve
+  understanding as so defined, all one has to do is to teach the
+  action required to demonstrate "act intelligently": we thus reduce
+  our students to performing monkeys, surely not the idea.
+
+* Understanding is inextricably linked to interest.  One might make a
+  case for understanding to *require* a certain level of interest on
+  the part of a student.  My own feeling is that this, while a
+  reasonable requirement, would disbar the majority of undergraduates
+  from study.
+
+* Understanding is not necessarily accompanied by an ability to
+  explain.  I spent a very frustrating evening with my brother
+  discussing a problem in military engineering to no avail: although I
+  understood the physics of the problem, I was unable to convince him
+  that I was right.
+
+* There can be many types of understanding, not necessarily consistent
+  with one another.  There are, however, recognisably incorrect
+  interpretations.
+
+
+I have been reflecting on this for a while now.
