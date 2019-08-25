@@ -1,4 +1,3 @@
-
 Understanding
 
 
@@ -30,7 +29,7 @@ understanding.  Using NLM as an example, we have:
   understanding is a thus dependent on how one expects to interact
   with that concept.  Bereiter offers "Newton's Laws of motion" as an
   example (one that I am able to discuss with some insight: I am
-  originally a physicist---not a statistician---my PhD is fluid
+  originally a physicist---not a statistician---and my PhD is fluid
   dynamics).  "Understanding" NLM will depend on one's relationship
   with them.  One might expect different *kinds* of understanding
   appropriate to a secondary science teacher, a science historian, a
@@ -49,19 +48,26 @@ understanding.  Using NLM as an example, we have:
 
 * Understanding is inextricably linked to interest.  One might make a
   case for understanding to *require* a certain level of interest on
-  the part of a student.  My own feeling is that this, while a
-  reasonable requirement, would disbar the majority of undergraduates
-  from study.
+  the part of a student.  This is my view, but my children all
+  disagree with me on this issue.
 
 * Understanding is not necessarily accompanied by an ability to
-  explain.  I spent a very frustrating evening with my brother
-  discussing a problem in military engineering to no avail: although I
-  understood the physics of the problem, I was unable to convince him
-  that I was right.
+  explain.  One can 'understand' that a cat would be unhappy with a
+  particular change without being able to explain why.  One could
+  'understand' how to negotiate a roundabout, or organise a football
+  team, with no ability to articulate the skills required.
 
 * There can be many types of understanding, not necessarily consistent
   with one another.  There are, however, recognisably incorrect
   interpretations.
 
+I have been reflecting on this for a while now.  One difficulty of
+discussing understanding is the English language.  Is "understanding"
+a thing, a process, a possession, an ability, or a habit?  I could
+make a case for any of these.
 
-I have been reflecting on this for a while now.
+From an academic leadership perspective, I can ask whether the
+'understanding' in our descriptors is useful or appropriate, how we
+might assess it, and whether acquiriring it is likely to be permanent
+or temporary, or whether it is necessary for future learning.
+
