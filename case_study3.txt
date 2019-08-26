@@ -3,7 +3,7 @@ Case study 3: computer games and education
 I think that many of the issues connected with the meaning and value
 of education are faced by many families in microcosm.  I feel that
 thinking about my own children and their education can shed light on
-my educational practices at work.
+my educational practices at work.  
 
 My wife Lesley and I disagree fundamentally about the educational
 merits of computer games.  Her view is that computer games are nothing
@@ -20,24 +20,21 @@ Zachary's view is that these games are a vital educational component
 of his generation, and compares many of the online competitive games
 he plays with chess or go.  As part of his gaming, he is teaching
 himself new computer languages such as python and ruby and points out
-that his computer classes at school are dumbed-down social nonsense.
-He argues persuasively that many of the games he plays *are* social
-activities, just not face-to-face; many of his games require real-time
-discussion mediated by VOIP.  Many of his games are individual, either
-playing against friends or strangers; but some are team games; his
-team generally comprises school friends who play the same game.  His
-team has met a small amount of success in the various leagues in which
-he plays.  He further observes that he has met a number of boys
-(friends of friends, who attend a different school) through this
-mechanism.
+that his computer classes at school are dumbed-down in comparison to
+his own self-directed learning.  He argues persuasively that many of
+the games he plays *are* social activities, just not face-to-face;
+many of his games require real-time discussion mediated by VOIP.  Many
+of his games are individual, either playing against friends or
+strangers; but some are team games; his team generally comprises
+school friends who play the same game.  His team has met a small
+amount of success in the various leagues in which he plays.  He
+further observes that he has met a number of boys (friends of friends,
+who attend a different school) through this mechanism.
 
 My own view is intermediate between these two extremes, although it is
-closer to Zachary's than Lesley's.
-
-
-Sometimes I sit with him, trying to see the world through his eyes,
-and trying to understand what (if any) educational value these
-activities have.
+closer to Zachary's than Lesley's.  Sometimes I sit with him, trying
+to see the world through his eyes, and trying to understand what (if
+any) educational value these activities have.
 
 One game in particular stood out for me: Supreme Commander Forged
 Alliance (SCFA).  This game was an RTS (real time strategy) game,
@@ -54,9 +51,16 @@ so I could eavesdrop.  His team was Red, the other one Blue.  Here is,
 heavily bowdlerised (the original transcript was rather more
 colourful), a discussion between him and his friends:
 
+scene: a totally dark room with one seventeen-year-old boy in a room
+totally dark except for a colourful computer screen.  He speaks
+occasionally into a microphone; three or so other players (teammates)
+can be heard through a loudspeaker.  Here, Z=my son Zac, the other
+letters correspond to meatspace friends whom I know vaguely.
+
 Z: "You know, we are suffering badly because we don't have control of
-that island <points to a region on a map>.  I say we abandon [tactical
-objective] and put everything we have into recapturing that island"
+that island <uses the mouse to indicate a region on a map>.  I say we
+abandon [tactical objective] and put everything we have into
+recapturing that island"
 
 S: "I'm with you on that, without that island we ain't got a chance
 here"
@@ -65,7 +69,7 @@ T: "Are you nuts?  Blue has been there for ages, they're well dug in.
 No way can we take it.  I say we consolidate to the South and push
 there"
 
-S: "Guys, we're getting hammered on the East, bad.  Zach, look sharp!
+S: "Guys, we're getting hammered on the East, bad.  Zac, look sharp!
 We gotta defend the East, like, now.
 
 Z: "Look, we gotta make a decision before we lose the East.  Who says
@@ -73,11 +77,11 @@ Yes to taking that island?"
 
 ... and so on.  The genre is "Real Time Strategy", clearly strategic.
 Note in particular the absence of turn-taking and the panicked
-reactions of the team to ongoing in-game events.  Also note the
-requirement for cohesive team action: Zach needed the cooperation [and
-indeed advice] of the other three players to realise the strategy.  In
-this context, good strategy is worthless without the commitment of the
-other team members.
+reactions of the team to ongoing real-time in-game events.  Also note
+the requirement for cohesive team action: Zach needed the cooperation
+[and indeed advice] of the other three players to realise the
+strategy.  In this context, good strategy is worthless without the
+commitment of the other team members.
 
 It is not clear to me that such games are inferior to, say, chess in
 terms of educational value.  Chess is de facto educational; many many
@@ -114,6 +118,36 @@ cannot think of *any* activity, game or otherwise, that has such a
 pure aspect of leadership built into it.
 
 
+== Overwatch ==
+
+I saw Zac again today apparently watching a very slow game of
+overwatch (Note: overwatch is a team-based multiplayer first-person
+perspetive shoot-em-up game.  Two teams of six compete.  Each player
+chooses a character from a list of over 30 characters ("heroes") and
+the gameplay itself is a bewilderingly complicated and fast-paced
+strategic activity, lasting about 5 minutes).
+
+I asked him what he was doing.  Paraphrased: "I'm watching yesterday's
+game to see what went wrong.  We lost and I don't know why.  I can
+view the game from any one of the twelve players' POV [point-of-view,
+what the player actually sees in-game] and right now I'm watching it
+at quarter speed.  I've spent an hour on this so far.  We didn't do
+anything wrong, and Blue [Zac's team was Red, their opponents Blue]
+didn't have any particularly luck.  And I don't think they cheated
+[occasionally, players are caught cheating using a variety of computer
+techniques].  I'm just baffled.  Look here, this is what [enemy
+player] Orisa sees at 2:21 [times are measured in minutes:seconds from
+start].  Somehow they have split our team into two, but how did they
+do that?"
+
+I did not detect any ill-will or sour grapes or vindictive sentiment,
+simply a desire to understand his team's strategy, with perhaps a
+long-term view to playing better in the future.  This to me is the
+very essence of ako, as I understand the term, of "careful
+consideration".
+
+
+
 ==Educational leadership ==
 
 How does such reflection affect educational leadership within AUT?  It
@@ -123,18 +157,6 @@ I am involved with a number of assessment items that are group marked,
 and one of the rationales for this is that it mirrors the workplace in
 which teams are part of working life, and we wish to prepare students
 for this.  
-
-However, 
-
-The *universal* complaint is the free-rider problem.  Time after time
-
-and yet we are happy
-
-
-We tend to value essay-writing and standardised tests as traditional
-assessment instruments.  We denigrate
-
-
 
 In summary, my strong feeling is that we as educators should be open
 to non-standard assessment tropes, and there is nothing wrong with
