@@ -1,9 +1,10 @@
 Case study 3: computer games and education
 
 I think that many of the issues connected with the meaning and value
-of education are faced by many families in microcosm.  I feel that
+of education are faced by many families in microcosm.  I find that
 thinking about my own children and their education can shed light on
-my educational practices at work.  
+my educational practices at work, specifically leveraging students'
+leisure interests in statistical analysis.
 
 My wife Lesley and I disagree fundamentally about the educational
 merits of computer games.  Her view is that computer games are nothing
@@ -135,7 +136,7 @@ at quarter speed.  I've spent an hour on this so far.  We didn't do
 anything wrong, and Blue [Zac's team was Red, their opponents Blue]
 didn't have any particularly luck.  And I don't think they cheated
 [occasionally, players are caught cheating using a variety of computer
-techniques].  I'm just baffled.  Look here, this is what [enemy
+techniques].  I'm just baffled.  Look here Dad, this is what [enemy
 player] Orisa sees at 2:21 [times are measured in minutes:seconds from
 start].  Somehow they have split our team into two, but how did they
 do that?"
@@ -145,6 +146,34 @@ simply a desire to understand his team's strategy, with perhaps a
 long-term view to playing better in the future.  This to me is the
 very essence of ako, as I understand the term, of "careful
 consideration".
+
+== Factorio ==
+
+As part of my development as an educator, I make the effort to learn
+new and difficult things from time to time, specifically to experience
+education "from the other side of the desk" (see also case study 4,
+martial arts).
+
+Zac made a strong case that I would enjoy "Factorio", a game in which
+the player's avatar designs and constructs huge intricate systems of
+industrial plant.  In the end I bought a copy and spent a total of
+several hundered hours playing the game.
+
+I am most interested in my experience with my son helping me learn the
+game: a stark role reversal from the usual father-son dynamic.  What
+struck me was my broad-brush incompetence in many many aspects of the
+game, all of which hampered my development.
+
+Usually the player uses WSAD on the left hand and the mouse in the
+right.  Now, I am left handed and found this very very difficult (if
+any [right-handed] reader doubts this, try playing the guitar
+strumming with the left hand and fretting with the right).  I could
+not control the character at all well.  I couldn't move it about
+
+
+he ended up saying "I guess this is so far from your usual thing that
+your brain just can't cope with it"
+
 
 
 
