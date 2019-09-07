@@ -1,8 +1,17 @@
-Case study 4:  martial arts
+Case study 4:  taekwondo
 
-As part of my development as an educator, I make the effort to learn
-new and difficult things from time to time, specifically to experience
-education "from the other side of the desk".
+I am very interested in motivation, interpreted in its most general
+form as an abstract guiding principle for behaviour.  For my teaching,
+the motivation I am most concerned about is motivation to study
+mathematics.
+
+From the perspective of motivation, mathematics education is an
+unmitigated failure.  Students hate it and have to be bullied or
+otherwise coerced into studying a system of essentially zero value.
+In this case study I consider one form of human activity, martial
+arts, which seems to motivate its students highly effectively; I
+ponder whether we mathematics educators can learn anything from the
+martial arts community.
 
 My daughter Annabel has practised taekwondo for over seven years.  She
 is now only one test away from attaining a black belt, and will be
@@ -10,4 +19,8 @@ grading next year.  My view is that martial arts somehow motivate
 young men and women to study an abstract and demanding discipline,
 over many years, with no immediate payoff.  As far as motivation is
 concerned, martial arts are succeeding where mathematics education is
-failing.  In this case study I will investigate this observation.
+failing.
+
+There follow a number of possible explanations for the discrepancy.
+
+1.  Status.
