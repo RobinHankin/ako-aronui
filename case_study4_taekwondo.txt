@@ -13,14 +13,92 @@ arts, which seems to motivate its students highly effectively; I
 ponder whether we mathematics educators can learn anything from the
 martial arts community.
 
-My daughter Annabel has practised taekwondo for over seven years.  She
-is now only one test away from attaining a black belt, and will be
-grading next year.  My view is that martial arts somehow motivate
-young men and women to study an abstract and demanding discipline,
-over many years, with no immediate payoff.  As far as motivation is
-concerned, martial arts are succeeding where mathematics education is
-failing.
+My daughter Annabel (14yo) has practised taekwondo (TKD) for over five
+years.  She is now only one test away from attaining a black belt, and
+will be grading next year.  My view is that martial arts somehow
+motivate young men and women to study an abstract and demanding
+discipline, over many years, with no immediate payoff.  As far as
+motivation is concerned, martial arts are succeeding where mathematics
+education is failing.  There follow a number of possible explanations
+for the discrepancy.
 
-There follow a number of possible explanations for the discrepancy.
+In the past, I have studied three different martial arts (judo,
+ju-jitsu, karate) to a level somewhat below Annabel's proficiency at
+TKD.  So I have some insight into TKD culture although as Annabel
+repeatedly points out TKD and karate are different things (there are
+many examples of nuances invisible to outsiders: chess/draughts;
+geek/nerds; AUT/UoA; the list is endless).
 
-1.  Status.
+One problem with mathematics is that students tend to lose motivation
+during the years that math is compulsory and I've often thought that
+we mathematics educators could adopt a system like the TKD belts.
+Everyone laughs when I suggest this.  This annoys me: mathematics
+education is an unmitigated disaster, and mathematics educators are
+certainly not in a position where we can ignore or denigrate
+successful systems such as coloured martial arts belts.
+
+The first question is, I guess, is what features do belts have that
+makes them so amazingly successful as motivational tools?
+
+* (difficult) Belts are difficult to obtain and the grading process is
+   rigorous.  I'd say that mathematics is difficult for most people
+   but the difference is that performance in TKD is driven almost
+   purely by practise, not by disposition or innate ability.  And the
+   instructor makes no bones about this.  
+
+* (public) The outcome, a different-coloured belt, is very public.
+  Compare mathematics, in which success has no visible result.  Even
+  if it did, see the next bullet point.
+
+* (status).  Possessing a higher belt confers immediate and visible
+  status in the training room.  Having a higher belt permits the
+  student to learn more interesting things (new types of attack, for
+  example, or more complicated and impressive patterns).  The newer
+  students respect, and look up to, the more highly belted students.
+  It is quite common for a sensei (senior instructor) to refer
+  directly to a student by rank, as in "yellow belt, that was good
+  work"; or "green belts, remember to face the front".  Compare
+  mathematics where we have nothing of the sort: suppose I offered the
+  equivalent of a green belt to high-achieving students.  This might
+  be a nice ink pen that only A+ students are allowed to use, or
+  perhaps a round metal lapel badge, a bit like an old fashioned
+  prefect's badge at Hogwarts.  I don't really know, but such status
+  symbols would almost certainly backfire.  The recipients, I strongly
+  suspect, would reject these things.  Why is this so different from
+  martial arts?
+
+* (objective). As far as I can tell, the grading process is stable and
+  objective, and does not suffer from anything like dumbed-down exams
+  or grade inflation.  Certainly in judo (which I did 30 years ago),
+  you have to fight a real opponent to earn the next belt, and only
+  one of the two will successfully grade: this is *real* competition.
+  To a black belt you have to defeat a certain number of people.  It's
+  the same in TKD, at least at the higher levels.  In math, my
+  perception is that the syllabus is pretty arbitrary.  There *are*
+  competitive mathematics competitions which I discuss below.
+
+* (progressive). There is a clear incremental progression towards
+  black belt, which is a clear marker of TKD competence: objective
+  evidence that one has what it takes.  It is nice to have "I'll be a
+  black belt someday" in mind when struggling with some yellow-belt
+  technique.  I see no endpoint in math.  Certainly no publicly
+  visible endpoint (I guess you could say "I have a degree in math").
+
+* (instant feedback).  The grading process itself is pretty much
+  instant: you know immediately whether you have passed or not
+  (actually this isn't quite true.  The instructor formally reserves
+  judgement for a few days for some inscrutable reason.  But you just
+  *know* how you've done, straight away).  It is difficult to say for
+  sure but many students are poor at assessing their own exam
+  performance.
+
+* (competitive) TKD holds regional and national competitions maybe
+  twice a year, usually in a large indoor stadium.  Thousands of
+  practitioners, at all levels from yellow belt to black, compete for
+  a range of medals including patterns (stylised sequences of moves,
+  against imaginary opponents, to instil the basic TKD repetoire),
+  combat (usually semi-contact a bit like boxing) and breaking
+  (practitioners have to snap a standardised breaking board using
+  specified techniques).  The medals are hard currency: Annabel
+  typically wins two or three in different disciplines, and 
+
