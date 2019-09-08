@@ -6,11 +6,11 @@ the motivation I am most concerned about is motivation to study
 mathematics.
 
 From the perspective of motivation, mathematics education is an
-unmitigated failure.  Students hate it and have to be bullied or
-otherwise coerced into studying a system of essentially zero value.
-In this case study I consider one form of human activity, martial
-arts, which seems to motivate its students highly effectively; I
-ponder whether we mathematics educators can learn anything from the
+unmitigated failure.  Students hate it for good reasons; they have to
+be bullied or otherwise coerced into studying a system of essentially
+zero value.  In this case study I consider one form of human activity,
+martial arts, which seems to motivate its students highly effectively;
+I ponder whether we mathematics educators can learn anything from the
 martial arts community.
 
 My daughter Annabel (14yo) has practised taekwondo (TKD) for over five
@@ -65,7 +65,12 @@ makes them so amazingly successful as motivational tools?
   prefect's badge at Hogwarts.  I don't really know, but such status
   symbols would almost certainly backfire.  The recipients, I strongly
   suspect, would reject these things.  Why is this so different from
-  martial arts?
+  martial arts?  Note also the English idiom: one can say "I have a
+  black belt in TKD" or "I am a black belt in TKD".  A belt shows what
+  one IS, rather than what one HAS (or has done); being a black belt
+  is viewed as a reflection of oneself as a person, rather than a mere
+  posession or passing of an exam.  It is worn with pure pride; it
+  commands and demands respect.
 
 * (objective). As far as I can tell, the grading process is stable and
   objective, and does not suffer from anything like dumbed-down exams
@@ -81,24 +86,40 @@ makes them so amazingly successful as motivational tools?
   black belt, which is a clear marker of TKD competence: objective
   evidence that one has what it takes.  It is nice to have "I'll be a
   black belt someday" in mind when struggling with some yellow-belt
-  technique.  I see no endpoint in math.  Certainly no publicly
-  visible endpoint (I guess you could say "I have a degree in math").
+  technique.  I see no comparable endpoint in math.  Certainly no
+  publicly visible endpoint (I guess you could say "I have a degree in
+  math").  
 
 * (instant feedback).  The grading process itself is pretty much
-  instant: you know immediately whether you have passed or not
-  (actually this isn't quite true.  The instructor formally reserves
-  judgement for a few days for some inscrutable reason.  But you just
-  *know* how you've done, straight away).  It is difficult to say for
-  sure but many students are poor at assessing their own exam
-  performance.
+  instantaneous: you know whether you have passed or not (actually
+  this isn't quite true.  The instructor formally reserves judgement
+  for a few days for some inscrutable reason.  But you just *know* how
+  you've done, straight away).  It is difficult to say for sure but
+  many students are poor at assessing their own exam performance.
 
 * (competitive) TKD holds regional and national competitions maybe
   twice a year, usually in a large indoor stadium.  Thousands of
   practitioners, at all levels from yellow belt to black, compete for
   a range of medals including patterns (stylised sequences of moves,
   against imaginary opponents, to instil the basic TKD repetoire),
-  combat (usually semi-contact a bit like boxing) and breaking
-  (practitioners have to snap a standardised breaking board using
-  specified techniques).  The medals are hard currency: Annabel
-  typically wins two or three in different disciplines, and 
+  combat (usually semi-contact) and breaking (practitioners have to
+  snap a standardised breaking board using specified techniques).  The
+  medals are hard currency: Annabel typically wins two or three in
+  different disciplines, and the club proudly calculates its total
+  haul, much as a country would do for olympic medals.
+
+  There are notionally similar mathematics competitions.  I am
+  involved with two: mathex, and the international mathematical
+  olympiad.  Mathex is a low-level elementary mathematics competition
+  with maybe 100 teams of 4 competing from schools across Auckland.
+  The winners win maybe $100 of book tokens.  But I don't think
+  mathematics works like this: the questions are standard-issue,
+  boring, non-challenging elementary questions, formulaic.  They seem
+  to test little but speed under pressure, surely not a characteristic
+  of mathematics.  The IMO questions are harder (I struggle to answer
+  them) but both reinforce the opinion that mathematics is nothing
+  more than "telling someoen who knows what the answer is what the
+  answer is", a skill of zero value.
+
+
 
