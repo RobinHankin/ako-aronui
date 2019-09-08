@@ -100,7 +100,6 @@ better krav practitioner.
 And what Lesley meant to say, I think, was that measuring one's worth
 by reference to another's opinion is a shallow way to live one's life.
 
-
 One result of reflecting on this issue has been that I try to
 de-emphasise the role of the lecturer and tutor in undergraduate
 statistics courses.  In the context of discussing exam marking of
@@ -111,9 +110,15 @@ and if you understand it, you can demonstrate this in the exam".  Note
 the de-emphasis on the marker; note also the enhancement of the value
 of the learning in and of itself (and also note the starting point is
 the understanding, which leads to benefits).  I think this is an
-important line of reasoning.
+important line of reasoning (in the context of educational leadership,
+this has had a number of effects, but notably I call out "charismatic"
+educators who I believe promote institutional dependency.  This is
+*not* a popular thing to do, but I have to do it).
 
-In the context of educational leadership, this has had a number of
-effects, but notably I call out "charismatic" educators who I believe
-promote institutional dependency.  This is *not* a popular thing to
-do, but I have to do it.
+However, the issue is more complicated than that.  Let's accept for
+the moment the notion of education as "introduction to a community of
+practice".  The community in question is mathematicians, so what do
+real mathematicians like me do?  Well, I spend my time trying to
+impress other mathematicians (notably in the process of peer-review
+but also in conferences).  So perhaps emphasising that student work to
+impress me isn't that bad an idea.
